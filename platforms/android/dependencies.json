@@ -4,6 +4,14 @@
         "directory": "..\\..\\node_modules\\nativescript-angular"
     },
     {
+        "name": "nativescript-email",
+        "directory": "..\\..\\node_modules\\nativescript-email"
+    },
+    {
+        "name": "nativescript-social-share",
+        "directory": "..\\..\\node_modules\\nativescript-social-share"
+    },
+    {
         "name": "nativescript-theme-core",
         "directory": "..\\..\\node_modules\\nativescript-theme-core"
     },

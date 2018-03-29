@@ -13,6 +13,15 @@ export class GroceryListService {
 
   constructor(private http: Http) {}
 
+  delete(id: string) {
+    return this.http.delete(
+      this.baseUrl + "/" + id,
+      { headers: this.getCommonHeaders() }
+    )
+    .map(res => res.json())
+    .catch(this.handleErrors);
+  }
+  
   add(name: string) {
     return this.http.post(
       this.baseUrl,

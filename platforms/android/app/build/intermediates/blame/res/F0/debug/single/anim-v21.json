@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\NativeScript Projects\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fe4bac481c4ac655e350c679a8126d9bf9493bee\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\NativeScript Projects\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fe4bac481c4ac655e350c679a8126d9bf9493bee\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

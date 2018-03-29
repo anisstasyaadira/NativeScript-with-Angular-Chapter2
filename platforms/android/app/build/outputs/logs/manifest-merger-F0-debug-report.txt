@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:3:2-38
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:3:2-38
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\F0\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\F0\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\F0\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] C:\Users\User\.android\build-cache\8ed633f7cfbe12568575f054ae9fc092735d9d1a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\User\.android\build-cache\d017e50494e6456b09f9ac736a55d5a0d3f121bf\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\adbd0c3c81bfe0bdf553f8bb59e7c99a38837202\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\addabfed5fac7466d230d1d9aa33acd6c5956d18\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\d651422229ab1bdc5aeb38276e05c341363cc948\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\User\.android\build-cache\358230cf42b41b2836041372cb34b46a64c2e918\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\User\.android\build-cache\c57fe0904c393d135025ccb135658c6531379fd3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\a985c8070c05b4e5d9a79d7f13c0037b8fd2c8b8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\e252cb015c333601b15fbe11ce84ed3be357fcd8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\aeebf2f0227694e9104a945a97a7f0db95b8d292\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\dcf5bf758f709f36f088286f81c5285e3d174535\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\50fc299a34150d317a428516e8af423f71e2077b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\a8b498df2d17b7b15bf296cf29243aef440e7f0f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\F0\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\F0\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from [:widgets-release:] C:\Users\User\.android\build-cache\d017e50494e6456b09f9ac736a55d5a0d3f121bf\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\adbd0c3c81bfe0bdf553f8bb59e7c99a38837202\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\addabfed5fac7466d230d1d9aa33acd6c5956d18\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\d651422229ab1bdc5aeb38276e05c341363cc948\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\User\.android\build-cache\c57fe0904c393d135025ccb135658c6531379fd3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\a985c8070c05b4e5d9a79d7f13c0037b8fd2c8b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\e252cb015c333601b15fbe11ce84ed3be357fcd8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\aeebf2f0227694e9104a945a97a7f0db95b8d292\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\dcf5bf758f709f36f088286f81c5285e3d174535\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\50fc299a34150d317a428516e8af423f71e2077b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\a8b498df2d17b7b15bf296cf29243aef440e7f0f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:27:3-37:14
+	android:label
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:29:4-49
+	android:configChanges
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:30:4-65
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:28:4-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:32:5-36:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:3-57
+	android:name
+		ADDED from C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\adbd0c3c81bfe0bdf553f8bb59e7c99a38837202\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\addabfed5fac7466d230d1d9aa33acd6c5956d18\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\d651422229ab1bdc5aeb38276e05c341363cc948\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\User\.android\build-cache\358230cf42b41b2836041372cb34b46a64c2e918\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\User\.android\build-cache\c57fe0904c393d135025ccb135658c6531379fd3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\a985c8070c05b4e5d9a79d7f13c0037b8fd2c8b8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\e252cb015c333601b15fbe11ce84ed3be357fcd8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\aeebf2f0227694e9104a945a97a7f0db95b8d292\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\dcf5bf758f709f36f088286f81c5285e3d174535\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\50fc299a34150d317a428516e8af423f71e2077b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\a8b498df2d17b7b15bf296cf29243aef440e7f0f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\fe4bac481c4ac655e350c679a8126d9bf9493bee\output\AndroidManifest.xml:26:9-47

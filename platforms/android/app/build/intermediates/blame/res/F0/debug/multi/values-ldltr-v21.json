@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\User\\Documents\\NativeScript Projects\\Groceries\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\.android\\build-cache\\adbd0c3c81bfe0bdf553f8bb59e7c99a38837202\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

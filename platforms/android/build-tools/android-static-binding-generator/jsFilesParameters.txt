@@ -73,9 +73,11 @@ C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\sr
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-email\email.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\User\Documents\NativeScript Projects\Groceries\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js

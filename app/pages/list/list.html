@@ -1,3 +1,6 @@
+<ActionBar title="Groceries">
+  <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
+</ActionBar>
 <GridLayout rows="auto, *">
 
   <GridLayout row="0" columns="*, auto" class="add-bar">
@@ -9,6 +12,7 @@
     <ng-template let-item="item">
       <Label [text]="item.name" class="medium-spacing"></Label>
     </ng-template>
+    <Image class="delete" src="res://delete" (tap)="delete()"></Image>
   </ListView>
 
   <ActivityIndicator [busy]="isLoading" [visibility]="isLoading ? 'visible' : 'collapse'" row="1" horizontalAlignment="center" verticalAlignment="center">
